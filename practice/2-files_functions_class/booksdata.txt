@@ -1,0 +1,16 @@
+Wickham|Grolemund,2016,R for Data Science,O'Reilly Media
+Kelleher|Tierney,2018,Data Science,MIT Press
+VanderPlas,2016,Python Data Science Handbook,O'Reilly Media
+Chojecki,2021,Data Science Job: How to become a Data Scientist,Przemek
+Provost|Fawcett,2013,Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking,O'Reilly Media
+Grus,2015,Data Science from Scratch: First Principles with Python,O'Reilly Media
+Foreman,2013,Data Smart: Using Data Science to Transform Information Into Insight,Wiley
+Irizarry,2019,Introduction to Data Science: Data Analysis and Prediction Algorithms with R,CRC Press
+Robinson|Nolis,2020,Build a Career in Data Science,Manning
+Baumer|Kaplan|Horton,2017,Modern Data Science with R,Taylor & Francis CRC Press
+Pierson,2015,Data Science For Dummies,Wiley
+Muenchen|Hoyt,2019,Introduction to Biomedical Data Science,Lulu
+Carter,2020,Data Science for Mathematicians,CRC Press
+Meysman|Cielen,2016,Introducing Data Science,Manning
+Godsey,2017,Think Like a Data Scientist: Tackle the Data Science Process Step-by-step,Manning
+Brunton|Kutz,2019,Data-Driven Science and Engineering,Cambridge University Press
